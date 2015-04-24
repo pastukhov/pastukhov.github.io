@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://pastukhov.github.io/atom.xml" rel="self"/>
-  <link href="http://pastukhov.github.io/"/>
-  <updated>2015-04-24T15:00:49+03:00</updated>
-  <id>http://pastukhov.github.io/</id>
+  <title><![CDATA[OVOI]]></title>
+  <link href="http://ovoi.ru/atom.xml" rel="self"/>
+  <link href="http://ovoi.ru/"/>
+  <updated>2015-04-24T15:08:32+03:00</updated>
+  <id>http://ovoi.ru/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Artem Pastukhov]]></name>
+    <email><![CDATA[artem.pastukhov@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

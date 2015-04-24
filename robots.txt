@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://pastukhov.github.io/sitemap.xml 
+Sitemap: http://ovoi.ru/sitemap.xml 
