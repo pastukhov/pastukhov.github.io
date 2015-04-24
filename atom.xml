@@ -4,7 +4,7 @@
   <title><![CDATA[OVOI]]></title>
   <link href="http://ovoi.ru/atom.xml" rel="self"/>
   <link href="http://ovoi.ru/"/>
-  <updated>2015-04-24T15:08:32+03:00</updated>
+  <updated>2015-04-24T15:16:36+03:00</updated>
   <id>http://ovoi.ru/</id>
   <author>
     <name><![CDATA[Artem Pastukhov]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://ovoi.ru/blog/2015/04/24/first-post/"/>
+    <updated>2015-04-24T15:12:49+03:00</updated>
+    <id>http://ovoi.ru/blog/2015/04/24/first-post</id>
+    <content type="html"><![CDATA[<h2>First post</h2>
+
+<p>First post is arrived</p>
+]]></content>
+  </entry>
   
 </feed>
