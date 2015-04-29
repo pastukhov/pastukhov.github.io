@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Esp8266 | OVOI]]></title>
   <link href="http://ovoi.ru/blog/categories/esp8266/atom.xml" rel="self"/>
   <link href="http://ovoi.ru/"/>
-  <updated>2015-04-29T17:54:06+03:00</updated>
+  <updated>2015-04-29T17:55:17+03:00</updated>
   <id>http://ovoi.ru/</id>
   <author>
     <name><![CDATA[Artem Pastukhov]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[SSDP Discoverable Rgb LED Controller on ESP8266 With NodeMCU Firmware]]></title>
+    <title type="html"><![CDATA[SSDP Discoverable RGB LED Controller on ESP8266 With NodeMCU Firmware]]></title>
     <link href="http://ovoi.ru/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware/"/>
     <updated>2015-04-29T17:49:58+03:00</updated>
     <id>http://ovoi.ru/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware</id>
