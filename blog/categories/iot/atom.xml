@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iot | OVOI]]></title>
   <link href="http://ovoi.ru/blog/categories/iot/atom.xml" rel="self"/>
   <link href="http://ovoi.ru/"/>
-  <updated>2015-04-29T18:01:30+03:00</updated>
+  <updated>2015-04-29T18:09:02+03:00</updated>
   <id>http://ovoi.ru/</id>
   <author>
     <name><![CDATA[Artem Pastukhov]]></name>
@@ -29,7 +29,7 @@
 <li>Add upnp.lua and http/rgb.lua to list of files to compile.</li>
 <li>Add dofile(&ldquo;upnp.lc&rdquo;) after dofile(&ldquo;httpserver.lc&rdquo;)(80).</li>
 <li>Yo should see &ldquo;OVOI RGB controller&rdquo; in your upnp browser.</li>
-<li>it is working  at least in windows network browser and upnp-inspector.</li>
+<li>It is working  at least in windows network browser and upnp-inspector.</li>
 </ul>
 
 ]]></content>
