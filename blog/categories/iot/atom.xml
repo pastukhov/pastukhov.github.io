@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Iot | OVOI]]></title>
   <link href="http://ovoi.ru/blog/categories/iot/atom.xml" rel="self"/>
   <link href="http://ovoi.ru/"/>
-  <updated>2015-04-29T17:55:17+03:00</updated>
+  <updated>2015-04-29T18:00:38+03:00</updated>
   <id>http://ovoi.ru/</id>
   <author>
     <name><![CDATA[Artem Pastukhov]]></name>
@@ -23,6 +23,7 @@
 <h1>Installation</h1>
 
 <ul>
+<li>You should use latest firmware from <a href="https://github.com/nodemcu/nodemcu-firmware">nodemcu-firmware</a> with multicsat support</li>
 <li>Grab the sources from <a href="https://github.com/pastukhov/nodemcu-ssdp">nodemcu-ssdp</a></li>
 <li>Place these files on top of <a href="https://github.com/marcoskirsch/nodemcu-httpserver">NodeMCU-httpserver</a>.</li>
 <li>Add upnp.lua and http/rgb.lua to list of files to compile.</li>
