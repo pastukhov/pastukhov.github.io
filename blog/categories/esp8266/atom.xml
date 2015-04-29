@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[OVOI]]></title>
-  <link href="http://ovoi.ru/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Esp8266 | OVOI]]></title>
+  <link href="http://ovoi.ru/blog/categories/esp8266/atom.xml" rel="self"/>
   <link href="http://ovoi.ru/"/>
   <updated>2015-04-29T17:54:06+03:00</updated>
   <id>http://ovoi.ru/</id>
@@ -31,26 +31,6 @@
 <li>it is working  at least in windows network browser and upnp-inspector.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Понедельник]]></title>
-    <link href="http://ovoi.ru/blog/2015/04/27/poniediel'nik/"/>
-    <updated>2015-04-27T11:40:17+03:00</updated>
-    <id>http://ovoi.ru/blog/2015/04/27/poniediel&#8217;nik</id>
-    <content type="html"><![CDATA[<h2>Понедельник</h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://ovoi.ru/blog/2015/04/24/first-post/"/>
-    <updated>2015-04-24T15:12:49+03:00</updated>
-    <id>http://ovoi.ru/blog/2015/04/24/first-post</id>
-    <content type="html"><![CDATA[<h2>First post</h2>
-
-<p>First post is arrived</p>
 ]]></content>
   </entry>
   

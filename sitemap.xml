@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://ovoi.ru/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware/</loc>
+    <lastmod>2015-04-29T17:49:58+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://ovoi.ru/blog/2015/04/27/poniediel&#8217;nik/</loc>
     <lastmod>2015-04-27T11:40:17+03:00</lastmod>
   </url>
@@ -16,5 +20,14 @@
   </url>
   <url>
     <loc>http://ovoi.ru/about/</loc>
+  </url>
+  <url>
+    <loc>http://ovoi.ru/blog/categories/esp8266/</loc>
+  </url>
+  <url>
+    <loc>http://ovoi.ru/blog/categories/nodemcu/</loc>
+  </url>
+  <url>
+    <loc>http://ovoi.ru/blog/categories/iot/</loc>
   </url>
 </urlset>

@@ -9,8 +9,9 @@
   <meta name="author" content="Artem Pastukhov">
 
   
-  <meta name="description" content="Понедельник
-">
+  <meta name="description" content="NodeMCU rgb led controller with SSDP capability. Installation Grab the sources from nodemcu-ssdp
+Place these files on top of NodeMCU-httpserver.
+Add &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,6 +79,50 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware/">SSDP Discoverable Rgb LED Controller on ESP8266 With NodeMCU Firmware</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-04-29T17:49:58+03:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>29</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>5:49 pm</span></time>
+        
+           | <a href="/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware/#disqus_thread"
+             data-disqus-identifier="http://ovoi.ru/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h2>NodeMCU rgb led controller with SSDP capability.</h2>
+
+<h1>Installation</h1>
+
+<ul>
+<li>Grab the sources from <a href="https://github.com/pastukhov/nodemcu-ssdp">nodemcu-ssdp</a></li>
+<li>Place these files on top of <a href="https://github.com/marcoskirsch/nodemcu-httpserver">NodeMCU-httpserver</a>.</li>
+<li>Add upnp.lua and http/rgb.lua to list of files to compile.</li>
+<li>Add dofile(&ldquo;upnp.lc&rdquo;) after dofile(&ldquo;httpserver.lc&rdquo;)(80).</li>
+<li>Yo should see &ldquo;OVOI RGB controller&rdquo; in your upnp browser.</li>
+<li>it is working  at least in windows network browser and upnp-inspector.</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -156,6 +201,10 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2015/04/29/ssdp-discoverable-rgb-led-controller-on-esp8266-with-nodemcu-firmware/">SSDP Discoverable Rgb LED Controller on ESP8266 With NodeMCU Firmware</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2015/04/27/poniediel'nik/">Понедельник</a>
